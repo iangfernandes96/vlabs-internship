@@ -2,8 +2,16 @@
 
 * Month of May
 ** [2016-05-16 Mon]
-   + What is the task I was assigned today?
+   + What is the task I was assigned today?  
+     I was assigned the task of familiarizing myself with 
+     the Emacs environment and IDE. I had to familiarize myself with the common
+     commands used in Emacs and use those commands extensively while
+     working with Emacs.
+
    + What did I get done against each task?
+     I spent time familiarizing myself with most of the common
+     commands, and used them repetitively, until I was able to use
+     these commands with ease.
 
 ** [2016-05-17 Tue]
    
