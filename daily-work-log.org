@@ -14,7 +14,19 @@
      these commands with ease.
 
 ** [2016-05-17 Tue]
-   
+   + What was the task I was assigned today?
+     -We have to set constraints for the deleteUser method for the web application
+     -We have to create a relational data model for a web application
+
+   + What did I get done against each task?
+     -For the deleteUser method, I set the relational constraints, along with
+     with other required constraints.
+     -For the relational data model, we have worked on organizing the
+     requirements into the relational requirements, type requirements,
+     entity requirements, etc. After segregation, we edited the requirements
+     document to highlight the requirements for the web application.
+
+** [2016-05-17 Wed]
 
 ** Weekly  Summary
    + What are the insights gained?
