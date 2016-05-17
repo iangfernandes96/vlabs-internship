@@ -32,3 +32,10 @@
    data the front-end component requests will be serviced accurately
    and as soon as possible, from the database.
 
+* List of technologies
+  - [[https://www.python.org][Python]] :: Python will be the main language in the implementation
+              of this project.  We will be using version 2.7.  (Not
+              3.x).
+
+  - [[https://flask.pocoo.org/][Flask]] :: Flask is the framework for web development in Python.  
+             We will use version 0.10.1.
