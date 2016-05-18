@@ -27,7 +27,15 @@
      document to highlight the requirements for the web application.
 
 ** [2016-05-17 Wed]
+   + What was the task I was assigned today?
+     - We had to complete the object model for the given web application, and
+       work on the object relational model. This task involved completion of
+       definition of objects, along with function definitions and running of
+       test cases.
 
+   + What did I get done against the task?
+     - We completed the object model, and defined appropriate test cases for
+       the object methods, so as to ensure that the methods ran as designed.
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
