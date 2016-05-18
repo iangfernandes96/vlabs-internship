@@ -26,7 +26,7 @@
      entity requirements, etc. After segregation, we edited the requirements
      document to highlight the requirements for the web application.
 
-** [2016-05-17 Wed]
+** [2016-05-18 Wed]
    + What was the task I was assigned today?
      - We had to complete the object model for the given web application, and
        work on the object relational model. This task involved completion of
