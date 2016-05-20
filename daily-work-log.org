@@ -49,6 +49,17 @@
        and added the required operations and corresponding test cases, in order
        to ensure that the methods ran as designed.
 
+** [2016-05-20 Fri]
++ What was the task I was assigned today?
+     - We had to add the System entity to the object model, for the given web
+       application, and complete the operations for the new, modified object
+       relational model, along with function definitions and running of test
+       cases.
+       
+   + What did I get done against the task?
+     - We completed the addition of the System class, to the object model,
+       and added the required operations and corresponding test cases, in order
+       to ensure that the methods ran as designed.
 
 ** Weekly  Summary
    + What are the insights gained?
