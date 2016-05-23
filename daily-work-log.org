@@ -50,11 +50,10 @@
        to ensure that the methods ran as designed.
 
 ** [2016-05-20 Fri]
-+ What was the task I was assigned today?
+   + What was the task I was assigned today?
      - We had to add the System entity to the object model, for the given web
        application, and complete the operations for the new, modified object
-       relational model, along with function definitions and running of test
-       cases.
+       model, along with function definitions and running of test cases.
        
    + What did I get done against the task?
      - We completed the addition of the System class, to the object model,
@@ -63,6 +62,21 @@
 
 ** Weekly  Summary
    + What are the insights gained?
+     - So far, I have learnt how to build an Object Model in accordance with a
+       Data model, in order to complete the the object section of an application.
    + What is my footprint in the realization of the project?
+     - As of now, I can build an Object Model, in accordance with a Data Model,
+       for a given application. So, in this sense, I feel that I can build the
+       object-related section of an application.
+** [2016-05-23 Mon]
+
+    + What was the task I was assigned today?
+     - We had to create the Object Relational Model, and add the appropriate
+       methods and test cases, in order to complete the ORM.
+       
+    + What did I get done against the task?
+     - We added the ORM boiler-plate code, and began work on the addition and
+       modification of new/existing methods and their corresponding test cases.
+
 * Month of June
 * Month of July
