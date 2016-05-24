@@ -78,5 +78,15 @@
      - We added the ORM boiler-plate code, and began work on the addition and
        modification of new/existing methods and their corresponding test cases.
 
+** [2016-05-24 Tue]
+
+    + What was the task I was assigned today?
+      - I had to update the ORM by adding the System class, and add the appropriate
+       methods and test cases, in order to complete it.
+       
+    + What did I get done against the task?
+     - I added the System class from the existing Object Model to ORM boiler-plate code, and began work on the addition and
+       modification of new/existing methods and their corresponding test cases.
+
 * Month of June
 * Month of July
