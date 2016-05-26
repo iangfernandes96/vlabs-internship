@@ -98,5 +98,16 @@
      - I worked on the boilerplate code template provided for the REST API, and added the
        required functionality.
 
+** [2016-05-26 Thu]
+
+    + What was the task I was assigned today?
+     - I had to update the REST API for the given web application, by
+       implementing the System class methods in the API, so as to ensure that
+       the System class acts as a controller.
+       
+    + What did I get done against the task?
+     - I added the required functionality from the System class into the REST
+       API and implemented the System class methods wherever possible/required.
+
 * Month of June
 * Month of July
