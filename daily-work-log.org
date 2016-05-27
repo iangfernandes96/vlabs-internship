@@ -109,5 +109,18 @@
      - I added the required functionality from the System class into the REST
        API and implemented the System class methods wherever possible/required.
 
+** [2016-05-27 Fri]
+
+    + What was the task I was assigned today?
+     - I had to work on the View for the given web application, by
+       implementing the given boilerplate code and adding the respective routing requests.
+       
+    + What did I get done against the task?
+     - I added the boilerplate code and added the required routing
+       functionality, so that the requests from the View can communicate with
+       the Controller
+
+
+
 * Month of June
 * Month of July
