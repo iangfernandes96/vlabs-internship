@@ -68,6 +68,7 @@
      - As of now, I can build an Object Model, in accordance with a Data Model,
        for a given application. So, in this sense, I feel that I can build the
        object-related section of an application.
+
 ** [2016-05-23 Mon]
 
     + What was the task I was assigned today?
@@ -120,6 +121,26 @@
        functionality, so that the requests from the View can communicate with
        the Controller
 
+** Weekly  Summary
+   + What are the insights gained?
+     - So far, I have learnt how to build the Object relational Model, the
+       corresponding REST API for the ORM and the front-end View.
+   + What is my footprint in the realization of the project?
+     - As of now, I can build an Object Relational Model and the corresponding
+       REST API, in accordance with a Data Model,
+       for a given application. So, in this sense, I feel that I can build the
+       model, controller and view (MVC) for a given application.
+       
+
+** [2016-05-30 Mon]
+
+    + What was the task I was assigned today?
+     - I had to work on completing the View for the given web application, by
+       implementing and adding the respective routing requests.
+       
+    + What did I get done against the task?
+     - I worked on the required routing functionality, so that the requests
+       from the View can communicate with the Controller.
 
 
 * Month of June
