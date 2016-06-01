@@ -142,6 +142,25 @@
      - I worked on the required routing functionality, so that the requests
        from the View can communicate with the Controller.
 
+** [2016-05-31 Tue]
+
+    + What was the task I was assigned today?
+     - I was on leave on this day.
+       
+    + What did I get done against the task?
+     - N/A
+
+** [2016-06-01 Wed]
+
+    + What was the task I was assigned today?
+     - Today, we had to complete the front-end view for the given web
+       application, with complete functionality.
+
+    + What did I get done against the task?
+     - I completed the functionality for the front-end by adding the add-user,
+       delete-user and edit-user functionality for the front-end. 
+       
+
 
 * Month of June
 * Month of July
