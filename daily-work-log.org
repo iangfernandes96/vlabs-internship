@@ -161,6 +161,17 @@
        delete-user and edit-user functionality for the front-end. 
        
 
+** [2016-06-02 Thu]
+
+    + What was the task I was assigned today?
+     - Today, we had to deploy the completed application using an external
+       server, both manually and using an ADS (Auto Deployment Services).
+
+    + What did I get done against the task?
+     - I completed the front-end section of the application and deployed the
+       same on an external host, using both a manual deployment and an ADS. 
+       
+
 
 * Month of June
 * Month of July
