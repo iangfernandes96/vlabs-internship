@@ -69,6 +69,7 @@
        for a given application. So, in this sense, I feel that I can build the
        object-related section of an application.
 
+
 ** [2016-05-23 Mon]
 
     + What was the task I was assigned today?
@@ -160,7 +161,6 @@
      - I completed the functionality for the front-end by adding the add-user,
        delete-user and edit-user functionality for the front-end. 
        
-
 ** [2016-06-02 Thu]
 
     + What was the task I was assigned today?
@@ -172,6 +172,29 @@
        same on an external host, using both a manual deployment and an ADS. 
        
 
+** [2016-06-03 Fri]
 
+    + What was the task I was assigned today?
+     - Today, we had to give a small presentation on the completed web
+       application, and present the completed documentation on the same.
+
+    + What did I get done against the task?
+     - I presented the documentation on the completed web application, and
+       demonstrated the working of the application, along with displaying the
+       running test cases. 
+       
+** Weekly  Summary
+   + What are the insights gained?
+     - So far, I have learnt how to build a complete, end-to-end web
+       application, along with manual and automatic deployment of the same,
+       using the ADS (Auto Deployment Service) on the VLABS network.
+
+   + What is my footprint in the realization of the project?
+     - As of now, I have completed the building and deployment of an end-to-end
+       web application, along with the deployment of the same.
+
+
+
+       
 * Month of June
 * Month of July
