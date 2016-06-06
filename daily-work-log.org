@@ -171,7 +171,6 @@
      - I completed the front-end section of the application and deployed the
        same on an external host, using both a manual deployment and an ADS. 
        
-
 ** [2016-06-03 Fri]
 
     + What was the task I was assigned today?
@@ -195,6 +194,15 @@
 
 
 
-       
+
+** [2016-06-06 Mon]
+
+    + What was the task I was assigned today?
+     - Today, we had to work on preparing the data model for the already
+       existing outreach portal.
+
+    + What did I get done against the task?
+     - I prepared the data model for the currently deployed outreach portal.
+              
 * Month of June
 * Month of July
