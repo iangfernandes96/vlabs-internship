@@ -182,6 +182,17 @@
        demonstrated the working of the application, along with displaying the
        running test cases. 
        
+** [2016-06-04 Sat]
+
+    + What was the task I was assigned today?
+     - Today, I had to read through the documentation of the existing outreach
+       portal, so as to be able to prepare the data model for the same.
+       
+
+    + What did I get done against the task?
+     - I read and understood the documentation for the outreach portal, and
+       began implementation of the data model for the same.
+              
 ** Weekly  Summary
    + What are the insights gained?
      - So far, I have learnt how to build a complete, end-to-end web
@@ -192,9 +203,6 @@
      - As of now, I have completed the building and deployment of an end-to-end
        web application, along with the deployment of the same.
 
-
-
-
 ** [2016-06-06 Mon]
 
     + What was the task I was assigned today?
@@ -203,6 +211,16 @@
 
     + What did I get done against the task?
      - I prepared the data model for the currently deployed outreach portal.
+              
+** [2016-06-07 Tue]
+
+    + What was the task I was assigned today?
+     - Today, I had to implement an Audit (logging system) on our user
+       directory application, so as to implement the same for the outreach portal.
+       
+
+    + What did I get done against the task?
+     - I began implementation of the Audit system in our user directory application.
               
 * Month of June
 * Month of July
