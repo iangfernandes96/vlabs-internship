@@ -222,5 +222,16 @@
     + What did I get done against the task?
      - I began implementation of the Audit system in our user directory application.
               
+** [2016-06-08 Wed]
+
+    + What was the task I was assigned today?
+     - Today, I had to complete the implementation of the Audit logging system
+       on the user directory web application.
+       
+       
+    + What did I get done against the task?
+     - I completed the implementation of the Audit logging system on the user
+       directory web application and wrote the required test cases for the same.
+              
 * Month of June
 * Month of July
