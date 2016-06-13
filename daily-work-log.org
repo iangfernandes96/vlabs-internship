@@ -203,6 +203,7 @@
      - As of now, I have completed the building and deployment of an end-to-end
        web application, along with the deployment of the same.
 
+
 ** [2016-06-06 Mon]
 
     + What was the task I was assigned today?
@@ -254,5 +255,28 @@
      - I read the documentation for other external authentication APIs, such as
        OAuth.
        
+** Weekly  Summary
+   + What are the insights gained?
+     - So far, I've learned the process of building a complete, end-to-end
+       application, along with understanding the intricacies of the
+       process. I've also learned the proper method of coming up with proper
+       documentation for a web application, and how to follow the models
+       effectively in order to realize the project.
+   + What is my footprint in the realization of the project?
+     - As of now, we have completed the documentation of the data model of
+       the existing outreach portal, and begun coding a few necessary modules
+       that need to be implemented in the new outreach portal. 
+
+
+** [2016-06-13 Mon]
+
+    + What was the task I was assigned today?
+     - Today, I had to read through the documentation for user authentication using
+       Google APIs.              
+    + What did I get done against the task?
+     - I read and understood the methods of user authentication using the
+       Google API and collaborated with other project team members in the
+       realization of the same.
+
 * Month of June
 * Month of July
