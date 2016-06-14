@@ -151,6 +151,7 @@
     + What did I get done against the task?
      - N/A
 
+* Month of June
 ** [2016-06-01 Wed]
 
     + What was the task I was assigned today?
@@ -278,5 +279,13 @@
        Google API and collaborated with other project team members in the
        realization of the same.
 
-* Month of June
+** [2016-06-14 Tue]
+
+    + What was the task I was assigned today?
+     - Today, I had to collaborate with Thirumal and work on implementation of
+       existing modules on a web application, so as to further implement these
+       in the outreach portal.              
+    + What did I get done against the task?
+     - I worked with Thirumal and we wrote the implementations as well as test
+       cases for the modules. 
 * Month of July
