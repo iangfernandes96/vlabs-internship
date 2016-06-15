@@ -288,4 +288,10 @@
     + What did I get done against the task?
      - I worked with Thirumal and we wrote the implementations as well as test
        cases for the modules. 
+** [2016-06-15 Wed]
+
+    + What was the task I was assigned today?
+     - Today, we had to begin implementation of the new outreach portal model.             
+    + What did I get done against the task?
+     - We started building the data-model for the new outreach portal. 
 * Month of July
