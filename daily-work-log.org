@@ -294,4 +294,19 @@
      - Today, we had to begin implementation of the new outreach portal model.             
     + What did I get done against the task?
      - We started building the data-model for the new outreach portal. 
+** [2016-06-16 Thu]
+
+    + What was the task I was assigned today?
+     - Today, we had to work on writing the data-model for the new outreach portal.
+    + What did I get done against the task?
+     - We started writing the data-model for the outreach portal.
+** [2016-06-17 Fri]
+
+    + What was the task I was assigned today?
+     - Today, we had to start building the object implementation for the
+       outreach portal.
+    + What did I get done against the task?
+     - I referred to the existing as well as a newer implementation of the user
+       directory application, shared by Thirumal, and began work on the object
+       implementation of the outreach portal.
 * Month of July
