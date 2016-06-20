@@ -309,4 +309,24 @@
      - I referred to the existing as well as a newer implementation of the user
        directory application, shared by Thirumal, and began work on the object
        implementation of the outreach portal.
+** Weekly  Summary
+   + What are the insights gained?
+     - So far, along with learning how to build a complete end-to-end web
+       application, I've also learnt the proper steps involved in the
+       completion of the object level implementation of such an application.    
+   
+   + What is my footprint in the realization of the project?
+     - AS of now, we have written the documentation for first phase of the
+       new outreach portal and have begun work on the object implementation.
+
+
+** [2016-06-20 Mon]
+
+    + What was the task I was assigned today?
+     - Today, we had to start working on the object implementation of the
+       outreach portal.
+    + What did I get done against the task?
+     - I began working on the object level implementation of the outreach
+       portal.
+
 * Month of July
