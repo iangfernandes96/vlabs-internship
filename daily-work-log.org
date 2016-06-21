@@ -329,4 +329,14 @@
      - I began working on the object level implementation of the outreach
        portal.
 
+** [2016-06-21 Tue]
+
+    + What was the task I was assigned today?
+     - Today, we had to define the data-model for the second phase of the
+       outreach portal.
+    + What did I get done against the task?
+     - I worked with Sripathi and wrote the data-model and drew the necessary
+       relation diagrams for the second phase and added it to the existing 
+       data-model for the outreach portal. 
+
 * Month of July
