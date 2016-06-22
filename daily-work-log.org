@@ -339,4 +339,14 @@
        relation diagrams for the second phase and added it to the existing 
        data-model for the outreach portal. 
 
+** [2016-06-22 Wed]
+
+    + What was the task I was assigned today?
+     - Today, we had to write the possible operations for the Workshop entity
+       in the data-model and draw the workflow diagram for the same.
+    + What did I get done against the task?
+     - I worked with Sripathi and wrote the operations for the Workshop entity,
+       along with the workflow diagram, and added it to the existing 
+       data-model for the outreach portal. 
+
 * Month of July
