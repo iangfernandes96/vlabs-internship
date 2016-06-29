@@ -390,4 +390,12 @@
        make the necessary changes.
     + What did I get done against the task?
      - We reviewed the documentation and made the necessary changes. 
+** [2016-06-29 Wed]
+
+    + What was the task I was assigned today?
+     - Today, we had to work on the object implementation of the second phase,
+       and also make a few changes to the datamodel.
+    + What did I get done against the task?
+     - I reviewed the documentation and made the necessary changes, and started
+       work on the object implementation of the second phase. 
 * Month of July
