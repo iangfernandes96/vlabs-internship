@@ -398,4 +398,11 @@
     + What did I get done against the task?
      - I reviewed the documentation and made the necessary changes, and started
        work on the object implementation of the second phase. 
+** [2016-06-30 Thu]
+
+    + What was the task I was assigned today?
+     - Today, I had to continue to work on the object implementation of the second phase.
+       
+    + What did I get done against the task?
+     - I continued to work on the object implementation of the second phase. 
 * Month of July
