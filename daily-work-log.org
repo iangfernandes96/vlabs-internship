@@ -416,3 +416,24 @@
     + What did I get done against the task?
      - I completed the object implementation of the second phase and started
        work on the system implementation for the second phase.
+
+** Weekly  Summary
+   + What are the insights gained?
+     - So far, along with learning how to build a complete end-to-end web
+       application, I've also learnt the proper steps involved in the
+       completion of the object level implementation of such an application.    
+   
+   + What is my footprint in the realization of the project?
+     - As of now, we have completed the object and system implementation of the
+       data model. 
+
+
+** [2016-07-04 Mon]
+
+    + What was the task I was assigned today?
+     - Today, I had to start implementation of the persistence of the data
+       model phase 2. 
+       
+    + What did I get done against the task?
+     - I completed the object and system implementation of the second phase and
+       started work on the persistence implementation for the second phase.
