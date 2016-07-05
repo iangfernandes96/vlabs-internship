@@ -437,3 +437,13 @@
     + What did I get done against the task?
      - I completed the object and system implementation of the second phase and
        started work on the persistence implementation for the second phase.
+
+** [2016-07-05 Tue]
+
+    + What was the task I was assigned today?
+     - Today, we had a meeting to discuss the system API implementation and
+       changes to be made in the same.
+    + What did I get done against the task?
+     - We discussed and decided on a design for the system API, in order to
+       facilitate necessary abstraction. I also continued to work on the
+       persistence of entities of the second phase of the data model.
