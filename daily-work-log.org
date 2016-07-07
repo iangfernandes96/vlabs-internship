@@ -447,3 +447,9 @@
      - We discussed and decided on a design for the system API, in order to
        facilitate necessary abstraction. I also continued to work on the
        persistence of entities of the second phase of the data model.
+** [2016-07-08 Thu]
+
+    + What was the task I was assigned today?
+     - Today, I had to continue working on the persistence implementation.
+    + What did I get done against the task?
+     - I continued to work on the implementation of the persistence system.
