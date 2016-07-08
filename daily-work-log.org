@@ -447,9 +447,23 @@
      - We discussed and decided on a design for the system API, in order to
        facilitate necessary abstraction. I also continued to work on the
        persistence of entities of the second phase of the data model.
-** [2016-07-08 Thu]
+** [2016-07-06 Wed]
+
+    + What was the task I was assigned today?
+     - Holiday, on account of Eid.
+    + What did I get done against the task?
+     - N/A
+
+** [2016-07-07 Thu]
 
     + What was the task I was assigned today?
      - Today, I had to continue working on the persistence implementation.
     + What did I get done against the task?
      - I continued to work on the implementation of the persistence system.
+
+** [2016-07-08 Fri]
+
+    + What was the task I was assigned today?
+     - Today, I had to begin implementing system handlers.
+    + What did I get done against the task?
+     - I started implementing the necessary system handlers.
