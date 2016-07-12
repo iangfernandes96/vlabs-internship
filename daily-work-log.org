@@ -486,3 +486,12 @@
        accommodate some changes made. 
     + What did I get done against the task?
      - I refactored the relevant code and fixed a few erroneous test cases.
+
+** [2016-07-12 Tue]
+
+    + What was the task I was assigned today?
+     - Today, I had to a Type entity for artefacts, and make a few changes
+       in the implementation of the Workshop entity.
+    + What did I get done against the task?
+     - I added the Type entity, along with relevant test cases, in both Object
+       and Persistence implementation, and modified the Workshop entity.
